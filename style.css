@@ -1,0 +1,22 @@
+#base{
+    padding: auto;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 10%;
+    left: 30%;
+    
+}
+#botao{
+    columns: 4;
+    font-size: 50px;
+}
+.botões{
+    padding: auto;
+    background-color: yellow;
+    border-radius: 10px;
+    text-align: center;
+    margin: 2px;
+}
